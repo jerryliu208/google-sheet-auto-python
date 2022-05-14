@@ -3,11 +3,11 @@
 <br>
 
 ## 遠端桌面網址&登入使用者：
-* [**遠端桌面連結**](https://test.com "Remote Desktop(測試用，連結無效)")
+* [**遠端桌面連結(測試用，連結無效)**](https://test.com "Remote Desktop->測試用，連結無效")
 * **登入使用者：** user123@gmail.com
 
 ## 部署VM連結：
-* [**VM的GCP連結**](https://test.com "URL of VM(測試用，連結無效)")
+* [**VM的GCP連結(測試用，連結無效)**](https://test.com "URL of VM->測試用，連結無效")
 
 ## 第一次部署步驟： 
 1. ### 首先將專案clone至VM上
